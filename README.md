@@ -1,3 +1,9 @@
+<img width="1852" height="886" alt="q1" src="https://github.com/user-attachments/assets/eaae4fc8-3753-4e83-a3f7-9f905049e6f6" />
+<img width="1853" height="882" alt="q2" src="https://github.com/user-attachments/assets/2528e86f-9db6-4394-b1c4-3523e0358338" />
+<img width="1847" height="882" alt="qprofile" src="https://github.com/user-attachments/assets/bae0739b-edb2-4449-80e8-e11f2cb9cf5f" />
+<img width="1852" height="886" alt="ql" src="https://github.com/user-attachments/assets/06cbed43-23a0-4b48-abe1-096055942f8a" />
+<img width="1855" height="890" alt="qr" src="https://github.com/user-attachments/assets/6c05f3e5-a153-4125-9a2f-0d2d0a814edb" />
+
 # COME USARE IL PROGETTO:
 
 1) Importare il database su XAMPP: 
@@ -21,3 +27,4 @@
 
 - Nel secondo terminale (Back-End) esegui il comando "cd api" per spostarti nella cartella
   api e successivamente il comando "npm i".
+
