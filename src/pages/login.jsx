@@ -24,6 +24,7 @@ export default function Login() {
                 const userData = jwtDecode(data.token);
                 localStorage.setItem("token", JSON.stringify(userData));
                 navigate("/");
+                window.location.reload();
             }
             else alert(data.mex);
         });
