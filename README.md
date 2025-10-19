@@ -16,7 +16,7 @@
 - Una volta caricata la pagina di phpMyAdmin, clicca sulla scheda "Importa" nella barra 
   superiore.
 
-- Seleziona il file chordix.sql dalla cartella Database del progetto tuo e clicca su "Esegui" 
+- Seleziona il file quizapp.sql dalla cartella Database del progetto tuo e clicca su "Esegui" 
   per completare l'importazione del  database.
 
 
@@ -28,5 +28,6 @@
 
 - Nel secondo terminale (Back-End) esegui il comando "cd api" per spostarti nella cartella
   api e successivamente il comando "npm i".
+
 
 
