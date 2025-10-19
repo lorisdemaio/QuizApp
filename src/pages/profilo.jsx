@@ -27,6 +27,11 @@ export default function profilo() {
         });
     }
 
+    const handleLogout = () => {
+        localStorage.clear();
+        window.location.reload();
+    }
+
     return(
         <>
             <Section
@@ -58,9 +63,15 @@ export default function profilo() {
                             Danger Zone:
                         </h2>
 
-                        <button className='btn-danger' onClick={handleDeleteAccount}>
-                            Elimina account
-                        </button>
+                        <div className='grid grid-cols-1 md:grid-cols-2 gap-4 w-max'>
+                            <button className='btn-danger' onClick={handleLogout}>
+                                Logout
+                            </button>
+
+                            <button className='btn-danger' onClick={handleDeleteAccount}>
+                                Elimina account
+                            </button>
+                        </div>
                     </div>
                 </div>
             </Section>
