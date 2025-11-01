@@ -1,3 +1,5 @@
+## 📸 Anteprima
+
 <img width="1852" height="886" alt="q1" src="https://github.com/user-attachments/assets/eaae4fc8-3753-4e83-a3f7-9f905049e6f6" />
 <img width="1853" height="882" alt="q2" src="https://github.com/user-attachments/assets/2528e86f-9db6-4394-b1c4-3523e0358338" />
 <img width="1848" height="883" alt="res" src="https://github.com/user-attachments/assets/79c0d01a-6cbe-4a1f-970a-3f8082d5c75c" />
@@ -16,7 +18,7 @@
 - Una volta caricata la pagina di phpMyAdmin, clicca sulla scheda "Importa" nella barra 
   superiore.
 
-- Seleziona il file quizapp.sql dalla cartella Database del progetto tuo e clicca su "Esegui" 
+- Seleziona il file quizapp.sql dalla cartella Database del tuo progetto e clicca su "Esegui" 
   per completare l'importazione del  database.
 
 
@@ -28,6 +30,7 @@
 
 - Nel secondo terminale (Back-End) esegui il comando "cd api" per spostarti nella cartella
   api e successivamente il comando "npm i".
+
 
 
 
